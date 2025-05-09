@@ -12,7 +12,7 @@ fun main() {
     // Printing Choice Message.
     println("Enter: 'Rock', 'Paper' or 'Scissors'.")
 
-    // Local Variables Section.
+    // Local Variables/Constants Section.
     val choiceList = listOf("Rock", "Paper", "Scissors")
 
     var cpuChoice = choiceList.random()
